@@ -1,0 +1,20 @@
+# Python (генераторы диаграмм)
+__pycache__/
+*.pyc
+
+# Временные и блокировочные файлы редакторов/ОС
+~$*
+.~lock.*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Резервные копии draw.io
+*.drawio.bkp
+.$*
+
+# IDE
+.vscode/
+.idea/
